@@ -1,6 +1,9 @@
 # Adding config.py file.
 config.py
 
+#cache folder
+__pycache__
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
